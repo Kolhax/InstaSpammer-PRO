@@ -8,4 +8,5 @@ simply start "main.py"
 ![alt text](https://github.com/Kolhax/InstaSpammer-PRO/blob/main/instagram_bomb.png)
 
 ## Credit
-Made by Kolhax
+Made by Kolhax </br>
+logo by Cedrik_BOI#4476
