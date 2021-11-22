@@ -1,6 +1,6 @@
 # InstaSpammer-PRO
 Spam dm your friends </br>
-![Video](https://youtu.be/l93ohelYaHM)
+[Video](https://youtu.be/l93ohelYaHM)
 
 ## How to use
 simply start "main.py"
